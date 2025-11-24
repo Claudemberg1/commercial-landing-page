@@ -1,0 +1,2 @@
+# commercial-landing-page
+Projeto desenvolvido sob demanda com foco em captação de leads e conversão de vendas, direcionando o usuário para uma oferta hospedada na Hotmart. A aplicação consiste em uma landing page otimizada para tráfego pago e orgânico, com foco em alta taxa de conversão, copy comercial e estrutura leve, podendo ser integrada a ferramentas externas de automação, CRM e análise de métricas.
